@@ -22,6 +22,7 @@ It allows users to **add, edit, and delete tasks**, and all data is saved using 
 - **HTML5** – structure and layout  
 - **CSS3** – styling and responsiveness  
 - **React** – functionality 
+- **Recharts** – Dynamic chart visualization
 
 ---
 

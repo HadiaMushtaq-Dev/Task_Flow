@@ -25,7 +25,7 @@ function Focus() {
     setclicked(false)
   }
   useEffect(()=>{
-    if(sec>=10){
+    if(sec>=60){
       setMin((prev)=>prev+1)
       setSec(0)
     }

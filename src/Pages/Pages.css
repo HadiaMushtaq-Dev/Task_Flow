@@ -156,11 +156,7 @@ button:hover{
     font-weight: bold;
     cursor: pointer;
 }
-.analytics{
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-}
+
 .analytics1{
     width: 90%;
     margin: 0 auto;
@@ -168,6 +164,7 @@ button:hover{
     flex-direction: column;
     border-radius: 20px;
     padding: 5vh;
+    min-height: 100vh;
 }
 .db1{
     width: 90%;

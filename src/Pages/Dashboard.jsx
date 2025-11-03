@@ -12,7 +12,9 @@ function Dashboard() {
       {taskarr.length>0?
       
         <TasksCard tasks={taskarr}/>
-      :<div>No added tasks yet !</div>}
+      :<div className="db1">
+        <p>No added tasks yet !</p>
+        </div>}
     </div>
   )
 }

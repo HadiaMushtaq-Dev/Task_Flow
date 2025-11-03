@@ -108,6 +108,7 @@ button:hover{
 }
 .db{
     width: 100%;
+    min-height: 50vh;
     height: auto;
     display: flex;
     flex-direction: column;
@@ -167,6 +168,21 @@ button:hover{
     flex-direction: column;
     border-radius: 20px;
     padding: 5vh;
+}
+.db1{
+    width: 90%;
+    margin: 4vh auto;
+    display: flex;
+    min-height: 30vh;
+    align-items: center;
+    justify-content: center;
+    background-color:  rgb(242, 243, 245);;;
+    border-radius: 20px;
+}
+.db1 p{
+   
+    font-size: 2rem;
+    color: rgb(197, 61, 84);;;
 }
 @media (max-width:1050px){
     

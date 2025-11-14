@@ -9,10 +9,11 @@
 }
 .home1{
     width: 90%;
-    margin:5vh auto;
+    margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 5vh 0;
 }
 form{
     width: 50%;
@@ -210,5 +211,13 @@ button:hover{
     .timer{
         width: 90%;
     }
-    
+    .cat{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .alert{
+        width: 45%;
+    }
+    .cross{
+        width: 20%;
+    }
 }

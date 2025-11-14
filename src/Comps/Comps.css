@@ -159,7 +159,7 @@ nav{
     .icons img{
         width: 2.5vw;
     }
-    .f1 img{
+    .fl img{
         width: 4vw;
     }
      .srch input{
@@ -194,10 +194,10 @@ nav{
     }
     
       .srch input{
-        width: 65%;
+        width: 60%;
     }
     .srch button{
-        width: 35%;
+        width: 37%;
     }
     .graph1{
         padding: 0;
@@ -211,7 +211,7 @@ nav{
      .icons img{
         width: 5vw;
     }
-    .f1 img{
+    .fl img{
         width: 6vw;
     }
 }

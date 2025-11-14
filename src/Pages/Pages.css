@@ -203,7 +203,7 @@ button:hover{
 
 @media (max-width:786px){
     form{
-        width: 90%;
+        width: 100%;
     }
      .analytics1{
         width: 100%;
@@ -213,11 +213,18 @@ button:hover{
     }
     .cat{
         grid-template-columns: repeat(2,1fr);
+        font-size: 1.3rem;
     }
     .alert{
         width: 45%;
     }
     .cross{
         width: 20%;
+    }
+    input,select{
+        font-size: 1.2rem;
+    }
+    .timer h1{
+        font-size: 4rem;
     }
 }
